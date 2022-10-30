@@ -306,7 +306,7 @@ Public Class Calculator
     End Function
 
     Private Sub Calculator_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Me.Text = "Simple Calculator By KvnCode"
+        Me.Text = "Simple Calculator"
     End Sub
 End Class
 
